@@ -1,0 +1,4 @@
+(DEAL DESCRIPTION)
+
+<span style="color: #ed1c24"><u><b>Ends (MONTH) (DAY) at (TIME).</b></u></span>
+<a class="pa-blurb-button" href="/menu/f-street/">View Products</a>
