@@ -1,0 +1,92 @@
+{
+    "version": "1.0",
+    "global_settings": {
+        "show_hide_hotkey": "`"
+    },
+    "buttons": {
+        "inner_top": {
+            "label": "AUTO TREEZ",
+            "icon_path": "",
+            "action_type": "Run File",
+            "target": "C:/Users/Kinny/Documents/00AA WORK SCRIPTS/PYTHON/$ BUTTON WHEEL/Scripts/AUTO TREEZ 2.5 - WORK FORMAT.ahk",
+            "arguments": ""
+        },
+        "inner_bottom": {
+            "label": "Profiles",
+            "icon_path": "",
+            "action_type": "OPEN_PROFILE_SELECTOR",
+            "target": "",
+            "arguments": ""
+        },
+        "inner_left": {
+            "label": "DEAL CALC",
+            "icon_path": "",
+            "action_type": "Run File",
+            "target": "C:/Users/Kinny/Documents/00AA WORK SCRIPTS/PYTHON/$ BUTTON WHEEL/Scripts/CALC - DEAL - CLUB420 - WORK FORMAT.ahk",
+            "arguments": ""
+        },
+        "inner_right": {
+            "label": "PRICE CALC",
+            "icon_path": "",
+            "action_type": "Run File",
+            "target": "C:/Users/Kinny/Documents/00AA WORK SCRIPTS/PYTHON/$ BUTTON WHEEL/Scripts/CALC - PRICE - CLUB420 - WORK FORMAT.ahk",
+            "arguments": ""
+        },
+        "outer_E": {
+            "label": "URL Copy",
+            "icon_path": "",
+            "action_type": "Run File",
+            "target": "C:/Users/Kinny/Documents/00AA WORK SCRIPTS/PYTHON/$ BUTTON WHEEL/Scripts/CHROME URL COPY - WORK FORMAT.ahk",
+            "arguments": ""
+        },
+        "outer_NE": {
+            "label": "ClipBoard",
+            "icon_path": "",
+            "action_type": "Run File",
+            "target": "C:/Users/Kinny/Documents/00AA WORK SCRIPTS/PYTHON/$ BUTTON WHEEL/Scripts/FLOATING CLIPBOARD - CLUB420 - WORK FORMAT.ahk",
+            "arguments": ""
+        },
+        "outer_N": {
+            "label": "Auto Treez",
+            "icon_path": "",
+            "action_type": "Run File",
+            "target": "C:/Users/Kinny/Documents/00AA WORK SCRIPTS/PYTHON/$ BUTTON WHEEL/Scripts/AUTO TREEZ 2.5 - WORK FORMAT.ahk",
+            "arguments": ""
+        },
+        "outer_NW": {
+            "label": "Image Convert",
+            "icon_path": "",
+            "action_type": "Run File",
+            "target": "C:/Users/Kinny/Documents/00AA WORK SCRIPTS/PYTHON/image convert/CONVERT IMAGE + VIDEO.py",
+            "arguments": ""
+        },
+        "outer_W": {
+            "label": "File Name",
+            "icon_path": "",
+            "action_type": "Run File",
+            "target": "C:/Users/Kinny/Documents/00AA WORK SCRIPTS/PYTHON/$ BUTTON WHEEL/Scripts/FILE NAME ADD + REMOVE - WORK FORMAT.ahk",
+            "arguments": ""
+        },
+        "outer_SW": {
+            "label": "Work Tabs",
+            "icon_path": "",
+            "action_type": "Run File",
+            "target": "C:/Users/Kinny/Documents/00AA WORK SCRIPTS/PYTHON/$ BUTTON WHEEL/Scripts/WORK TABS - WORK FORMAT.ahk",
+            "arguments": ""
+        },
+        "outer_S": {
+            "label": "Screenshot",
+            "icon_path": "",
+            "action_type": "Run File",
+            "target": "C:/Users/Kinny/Documents/00AA WORK SCRIPTS/PYTHON/$ BUTTON WHEEL/Scripts/SCREENSHOT - PRODUCT CARDS - F9 - WORK FORMAT.ahk",
+            "arguments": ""
+        },
+        "outer_SE": {
+            "label": "Coordinates",
+            "icon_path": "",
+            "action_type": "Run File",
+            "target": "C:/Users/Kinny/Documents/00AA WORK SCRIPTS/PYTHON/$ BUTTON WHEEL/Scripts/DETECT WINDOW COORDINATE - WORK FORMAT.ahk",
+            "arguments": ""
+        }
+    }
+}
