@@ -1,0 +1,111 @@
+{
+    "profile": "Default",
+    "trigger_button": "Middle",
+    "modifier_key": "None",
+    "close_on_action": true,
+    "close_on_right_click": true,
+    "sound_on_open": false,
+    "open_delay_ms": 150,
+    "enable_drag": true,
+    "center_wheel_on_open": true,
+    "profiles": {
+        "Default": [
+            {
+                "name": "Action 1",
+                "action_type": "None",
+                "action_data": "",
+                "color": "#FF5733"
+            },
+            {
+                "name": "Action 2",
+                "action_type": "None",
+                "action_data": "",
+                "color": "#FF5733"
+            },
+            {
+                "name": "Action 3",
+                "action_type": "None",
+                "action_data": "",
+                "color": "#FF5733"
+            },
+            {
+                "name": "Action 4",
+                "action_type": "None",
+                "action_data": "",
+                "color": "#FF5733"
+            },
+            {
+                "name": "Action 5",
+                "action_type": "None",
+                "action_data": "",
+                "color": "#FF5733"
+            },
+            {
+                "name": "Action 6",
+                "action_type": "None",
+                "action_data": "",
+                "color": "#FF5733"
+            },
+            {
+                "name": "Action 7",
+                "action_type": "None",
+                "action_data": "",
+                "color": "#FF5733"
+            },
+            {
+                "name": "Action 8",
+                "action_type": "None",
+                "action_data": "",
+                "color": "#FF5733"
+            },
+            {
+                "name": "Action 9",
+                "action_type": "None",
+                "action_data": "",
+                "color": "#FF5733"
+            },
+            {
+                "name": "Action 10",
+                "action_type": "None",
+                "action_data": "",
+                "color": "#FF5733"
+            },
+            {
+                "name": "Action 11",
+                "action_type": "None",
+                "action_data": "",
+                "color": "#FF5733"
+            },
+            {
+                "name": "Action 12",
+                "action_type": "None",
+                "action_data": "",
+                "color": "#FF5733"
+            },
+            {
+                "name": "Action 13",
+                "action_type": "None",
+                "action_data": "",
+                "color": "#FF5733"
+            },
+            {
+                "name": "Action 14",
+                "action_type": "None",
+                "action_data": "",
+                "color": "#FF5733"
+            },
+            {
+                "name": "Action 15",
+                "action_type": "None",
+                "action_data": "",
+                "color": "#FF5733"
+            },
+            {
+                "name": "Action 16",
+                "action_type": "None",
+                "action_data": "",
+                "color": "#FF5733"
+            }
+        ]
+    }
+}
